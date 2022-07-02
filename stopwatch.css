@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ffa63d;
+}
+.container {
+  text-align: center;
+  padding: 30px 10px;
+  height: 90vh;
+}
+h1 {
+  margin: 60px 40px;
+  padding: 10px 0px;
+  background-color: black;
+  color: white;
+  word-spacing: 10px;
+  border-radius: 30px;
+}
+.time {
+  margin: 60px 0px;
+}
+.sbtn {
+  padding: 15px 40px;
+  margin: 40px 40px;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+  color: black;
+  font-size: large;
+  font-weight: bold;
+}
+.sbtn:hover {
+  background-color: #f58e18;
+  transition: 0.25s ease-in-out;
+}
+h2 {
+  font-size: xx-large;
+}
+.ctime {
+  margin: 80px 0px 40px 0px;
+}
